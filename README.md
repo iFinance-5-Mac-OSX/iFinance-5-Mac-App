@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://install-osx-app.github.io/.github/ifinance-5" target="_blank">  
+<a href="https://osx-link-apps.github.io/.github/ifinance-5" target="_blank">  
   <img src="https://img.shields.io/badge/GET%20FOR%20MAC-%F0%9F%92%BE-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get iFinance 5 for Mac">  
 </a>  
 </div>  
